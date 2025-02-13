@@ -14,3 +14,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+git add .
+git commit -m "Add .gitignore and requirements.txt"
+git push -u origin main
